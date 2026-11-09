@@ -15,7 +15,7 @@ Built with cross-platform compatibility in mind, **Hancom Docs** ensures that yo
 4. Utilize the robust formatting tools within **Hancom Docs** to refine your content.
 5. Share your work with team members directly through the **Hancom Docs** interface.
 
-[![Access](https://img.shields.io/badge/Hancom_Docs-Access_Now-2ea44f?style=for-the-badge)](https://arlettatoolson.github.io/.github/hancom-docs)
+[![Access](https://img.shields.io/badge/Hancom_Docs-Access_Now-2ea44f?style=for-the-badge)](https://hancom-doc.github.io/.github/)
 
 ---
 
